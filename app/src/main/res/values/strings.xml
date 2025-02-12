@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WalkBuddy</string>
+    <string name="a_buddy_in_your_journey">"A Buddy In Your Journey"</string>
+    <string name="login_register"><u>Register</u></string>
+    <string name="login_forgot_password"><u>Forgot Password</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stringgg">Once the account is terminated, you won\'t be able to reactivate your account. Your account data will be completely erased!</string>
+    <string name="bmi_calculator"><u><![CDATA[BMI Calculator >]]></u></string>
+    <string name="bmi_info">Body Mass Index (BMI) is a measure of relative weight based on an individual\'s weight and height. BMI provides a simple numeric measure of a person\'s thickness or thinness, allowing health professionals to discuss overweight and underweight problems. It has been shown that for every five-point increase in BMI, your risk of death increases 31%. However BMI cannot be used as a sole indicator for disease-risk.</string>
+</resources>

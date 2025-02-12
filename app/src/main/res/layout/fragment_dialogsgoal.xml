@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".DialogSGoalFragment">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:text="Select Your Step Goal"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp">
+    <it.sephiroth.android.library.numberpicker.NumberPicker
+        style="@style/NumberPicker.Outlined.Horizontal"
+        app:picker_max="50000"
+        app:picker_min="0"
+        android:progress="0"
+        app:picker_stepSize="500"
+        app:picker_tracker="exponential"
+        app:picker_orientation="vertical"
+        android:id="@+id/number_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="Steps"
+            android:textSize="16sp"/>
+    </LinearLayout>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/sub"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        android:layout_marginVertical="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white"
+        android:text="Submit"/>
+
+</LinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable-v24/home_view2.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable-v24/login_error.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable-v24/loginbut.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable-v24/register_email.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable-v24/register_error.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable-v24/register_phone.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bg1.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_add.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_calcbtn.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_female.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_female_white.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_male.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_male_white.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_man.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_stepperbg.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/bmi_subtract.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/fp_back.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/fp_toolbackg.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/home_circprog.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/home_edit.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/home_star_filled.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/home_star_unfilled.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/home_view1.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/info_male.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/login_bg.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/login_cardbg.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/login_edittext.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/login_password.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/login_user.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/main_home.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/otpverify_butbg.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/otpverify_butbg1.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/otpverify_cellbg.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/prof_backg.xml" value="0.1125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/prof_edit.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/prof_llbackg.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/service_stop.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/stat_left.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/stat_open.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/drawable/stat_right.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_bmi.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_forgotpassword.xml" value="0.19010416666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_getinfo.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/dialog_bmi_result.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/dialog_otpverify.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/dialog_profpic.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_bmi.xml" value="0.19010416666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_delacc1.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_dialog1delacc.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_dialog2delacc.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_dialoggender.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_dialogheight.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_dialogsgoal.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_dialogstats.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_dialogweight.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_prof.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/fragment_stats.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/item_activitylist.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/item_genderspinner.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/layout/layout_numberpicker.xml" value="0.20416666666666666" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/EntwickLera/PROJECTS/WalkBuddy/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

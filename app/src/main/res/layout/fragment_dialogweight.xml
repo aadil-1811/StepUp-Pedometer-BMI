@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".DialogWeightFragment">
+    <TextView
+        android:id="@+id/weight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="0 kgs"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"/>
+    <com.kevalpatel2106.rulerpicker.RulerValuePicker
+        android:id="@+id/ruler_picker"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="4dp"
+        android:background="#B59522"
+        app:indicator_color="@android:color/white"
+        app:indicator_interval="10dp"
+        app:indicator_width="1dp"
+        app:max_value="400"
+        app:min_value="0"
+        app:notch_color="@android:color/white"
+        app:ruler_text_size="4sp"/>
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/sub"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        android:layout_marginVertical="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/white"
+        android:text="Submit"/>
+
+</LinearLayout>

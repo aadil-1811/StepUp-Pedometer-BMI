@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423159542741",
+    "project_id": "walkbuddy01",
+    "storage_bucket": "walkbuddy01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423159542741:android:2240c4d0fe19c1e666c35c",
+        "android_client_info": {
+          "package_name": "com.example.walkbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423159542741-1t12si0m2gt5kaa5f38a50mjti8gdbgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1FEM8JDecPB0m3PeS4gDiEjzTbGJJWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423159542741-1t12si0m2gt5kaa5f38a50mjti8gdbgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

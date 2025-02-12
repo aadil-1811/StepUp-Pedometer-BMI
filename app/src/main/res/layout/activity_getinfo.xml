@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    tools:context=".GetInfoActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="10dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="10dp"
+        app:cardMaxElevation="15dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:text="Fill all the mentioned details"/>
+
+        <com.google.android.material.button.MaterialButtonToggleGroup
+            android:id="@+id/register_toggleGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="16dp"
+            android:tooltipText="Choose Account Type"
+            android:weightSum="2"
+            app:singleSelection="true"
+            android:gravity="center">
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:icon="@drawable/info_male"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:text="male"
+                app:cornerRadius="10dp"/>
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                app:icon="@drawable/info_female"
+                app:iconGravity="end"
+                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                android:text="FEMALE"
+                app:cornerRadius="10dp"/>
+        </com.google.android.material.button.MaterialButtonToggleGroup>
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_date"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="16dp"
+            app:cornerRadius="10dp"
+            android:text="Select DATE OF BIRTH (DOB)"
+            android:textColor="#707070"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_height"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="16dp"
+            app:cornerRadius="10dp"
+            android:text="SELECT HEIGHT (cms)"
+            android:textAllCaps="false"
+            android:textColor="#707070"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_weight"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="16dp"
+            app:cornerRadius="10dp"
+            android:text="SELECT WEIGHT (kgs)"
+            android:textAllCaps="false"
+            android:textColor="#707070"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_goal"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginHorizontal="16dp"
+            app:cornerRadius="10dp"
+            android:text="SELECT STEP GOAL"
+            android:textAllCaps="false"
+            android:textColor="#707070"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/sub"
+            android:layout_marginTop="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            app:cornerRadius="10dp"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"/>
+
+    </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
